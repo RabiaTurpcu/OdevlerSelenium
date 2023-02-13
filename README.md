@@ -1,0 +1,2 @@
+# OdevlerSelenium
+Readme dosyasi eklendi.
